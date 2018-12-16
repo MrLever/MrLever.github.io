@@ -76,9 +76,13 @@ ul{
     width:33%;
 
 }
+
 a{
     text-decoration: none;
     font-family: 'Oswald', sans-serif;
+}
+p a{
+    font-family: 'Merriweather', serif;
 }
 a:link {
     color: #cf112b;
@@ -168,4 +172,30 @@ a:active {
 }
 .experience ul li{
     margin-top: 5px;
+}
+
+.masterBlasterDesc{
+    display: inline-block;
+}
+.masterBlasterDesc p{
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    line-height: 1.75em;
+    display: inline-block;
+    vertical-align: top;
+    width: calc(100% - 384px);
+}
+.masterBlasterDesc img{
+    float: right;
+}
+.masterBlasterImg{
+    display: inline-block;
+    width: 380px;
+}
+.masterBlasterImg img{
+    display: block;
+    margin: auto;
+}
+.projectLinks{
+    display: block;
 }
