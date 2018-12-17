@@ -199,3 +199,8 @@ a:active {
 .projectLinks{
     display: block;
 }
+.dugongDesc p{
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    line-height: 1.75em;
+}
