@@ -13,10 +13,10 @@ SuperVoid is my latest games project. It's a made-from-scratch clone of Asteroid
 *   [Project Repository](https://github.com/Team-11-Games/MasterBlaster)
 *   [Project Wiki](https://github.com/Team-11-Games/MasterBlaster/wiki)
 
-
+![MasterBlaster](./assets/MasterBlasterLogo.png)
 
 ### Summary
-Master Blaster was a project I made for my AI for Game Programming class with a team of two others. The objective of the class was to rapidly prototype and deliver a fun game that featured artificial intelligence in some novel way. There was no restriction on engine, genre, mechanics, or scope. It was up to the individual teams to conceive and deliver a fun gameplay experience. ![MasterBlaster](./assets/MasterBlasterLogo.png)
+Master Blaster was a project I made for my AI for Game Programming class with a team of two others. The objective of the class was to rapidly prototype and deliver a fun game that featured artificial intelligence in some novel way. There was no restriction on engine, genre, mechanics, or scope. It was up to the individual teams to conceive and deliver a fun gameplay experience. 
 
 Our game turned out to be different from many of our classmate's creations, and it gave us the opportunity to solve some unique problems. Problems like unit control, turn management, and level generation had huge impact on the feel of our game. Before the game was even playable, those three systems needed to be running smoothly. That high barrier put a lot of pressure on us for the early deadlines that expected gameplay.
 
