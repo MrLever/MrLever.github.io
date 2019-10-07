@@ -9,7 +9,7 @@ layout: default
 
 SuperVoid is my latest games project. It's a made-from-scratch clone of Asteroids made with C++20 and OpenGL. SuperVoid is currently under development, and v1.0 is should be done around December 2019.
 
-![SuperVoidDemo](SuperVoidDemo.gif)
+![SuperVoidDemo](./assets/SuperVoidDemo.gif)
 
 ### Current Features
 -   Keyboard, Mouse, and Gamepad Controls
