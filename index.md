@@ -28,6 +28,15 @@ SuperVoid is my latest games project. It's a made-from-scratch clone of Asteroid
 - Audio Framework
 - General Reduction in jankiness
 
+## Computron
+*   [Conference Paper](./assets/Computron/Computron_conference_paper.pdf)
+*   [Design Documentation](./assets/Computron/COmputronDesignDocument.pdf)
+*   [Windows Build](https://drive.google.com/open?id=1Zd70CsJta8AJ_XGvRc81Er-DYy5SdbWq)
+*   [WebGL Player **Unstable**](https://cop4934-fall19-group32.github.io/)
+
+### Summary
+
+
 ## Master Blaster 
 *   [Project Repository](https://github.com/Team-11-Games/MasterBlaster)
 *   [My Contributions](./assets/NicolasLaCognataMasterBlasterContributions.pdf)
