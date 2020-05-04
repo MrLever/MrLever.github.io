@@ -31,7 +31,7 @@ SuperVoid is my latest games project. It's a made-from-scratch clone of Asteroid
 
 ## Computron
 *   [Conference Paper](./assets/Computron/Computron_conference_paper.pdf)
-*   [Design Documentation](./assets/Computron/COmputronDesignDocument.pdf)
+*   [Design Documentation](./assets/Computron/ComputronDesignDocument.pdf)
 *   [Windows Build](https://drive.google.com/open?id=1Zd70CsJta8AJ_XGvRc81Er-DYy5SdbWq)
 *   [**(Unstable)** WebGL Player](https://cop4934-fall19-group32.github.io/)
 
