@@ -7,9 +7,10 @@ layout: default
 ## SuperVoid
 *   [Project Repository](https://github.com/MrLever/SuperVoid)
 
-SuperVoid is my latest games project. It's a made-from-scratch clone of Asteroids made with C++20 and OpenGL. SuperVoid is currently under development, and v1.0 is should be done around December 2019.
-
 ![SuperVoidDemo](./assets/SuperVoidDemo.gif)
+
+### Summary
+SuperVoid is my latest games project. It's a made-from-scratch clone of Asteroids made with C++20 and OpenGL. SuperVoid is currently under development, and v1.0 is should be done around December 2019.
 
 ### Current Features
 -   Keyboard, Mouse, and Gamepad Controls
@@ -32,9 +33,12 @@ SuperVoid is my latest games project. It's a made-from-scratch clone of Asteroid
 *   [Conference Paper](./assets/Computron/Computron_conference_paper.pdf)
 *   [Design Documentation](./assets/Computron/COmputronDesignDocument.pdf)
 *   [Windows Build](https://drive.google.com/open?id=1Zd70CsJta8AJ_XGvRc81Er-DYy5SdbWq)
-*   [WebGL Player **Unstable**](https://cop4934-fall19-group32.github.io/)
+*   [**(Unstable)** WebGL Player](https://cop4934-fall19-group32.github.io/)
+
+![ComputronTitle](./assets/Computron/TitleScreen.png)
 
 ### Summary
+Computron is a 2D puzzle game developed using Unity. It was developed over the span of 9 months as a project for UCF's Senior Design course with a team of four programmers and two volunteer artists. The game focuses on providing players a gentle introduction to the world of computational thinking and problem solving. We have decided to turn this project back over to UCF's Computer Science department 
 
 
 ## Master Blaster 
