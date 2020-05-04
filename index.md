@@ -2,7 +2,7 @@
 layout: default
 ---
 # What's going on here?
-Below you will find summaries of and links to the projects I am most proud of.
+Below you will find a portfolio of projects I have made or contributed to. Summaries of and links to the projects are provided. 
 
 # Projects
 
