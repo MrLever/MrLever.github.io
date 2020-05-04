@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# What's going on here?
+Below you will find summaries of and links to the projects I am most proud of.
 
 # Projects
 
