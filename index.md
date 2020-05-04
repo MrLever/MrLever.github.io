@@ -10,12 +10,14 @@ layout: default
 ![SuperVoidDemo](./assets/SuperVoidDemo.gif)
 
 ### Summary
-SuperVoid is my latest games project. It's a made-from-scratch clone of Asteroids made with C++20 and OpenGL. SuperVoid is currently under development, and v1.0 is should be done around December 2019.
+SuperVoid is the first game I've made with the Void Engine. Both SuperVoid and the Void Engine are made from scratch with C++20 and OpenGL.
 
 ### Current Features
--   Keyboard, Mouse, and Gamepad Controls
+-   Support for Keyboard, Mouse, and Gamepad bindings
 -   Custom 3D Renderer written with OpenGL 4.5
+-   Custom 3D physics engine
 -   Flexible Entity-Component system to allow rapid iteration of gameplay entities
+-   Type safe event system for communication between engine systems and gameplay entities
 -   Powerful framework utility classes that allow
   - Multithreading
   - Resource Allocation/Caching
@@ -23,11 +25,15 @@ SuperVoid is my latest games project. It's a made-from-scratch clone of Asteroid
   - FNV1a String hashing for fast comparisons
 
 ### Planned Features
-- Simple Physics/Collision Engine
-- UI Rendering
-- Text Rendering
+- Renderer improvements
+  - Allow user to select OpenGL or DirectX rendering
+  - UI Rendering
+  - Text Rendering
+- Physics Engine Improvements
+  - Separating Axis Theorem collision detection
+  - Friction and rotational inertia
 - Audio Framework
-- General Reduction in jankiness
+- Unity/Unreal style editor
 
 ## Computron
 *   [Conference Paper](./assets/Computron/Computron_conference_paper.pdf)
