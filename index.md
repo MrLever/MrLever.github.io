@@ -15,12 +15,12 @@ Below you will find a portfolio of projects I have made or contributed to. Summa
 SuperVoid is the first game I've made with the Void Engine. Both SuperVoid and the Void Engine are made from scratch with C++20 and OpenGL.
 
 ### Current Features
--   Support for Keyboard, Mouse, and Gamepad bindings
--   Custom 3D Renderer written with OpenGL 4.5
--   Custom 3D physics engine
--   Flexible Entity-Component system to allow rapid iteration of gameplay entities
--   Type safe event system for communication between engine systems and gameplay entities
--   Powerful framework utility classes that allow
+- Support for Keyboard, Mouse, and Gamepad bindings
+- Custom 3D Renderer written with OpenGL 4.5
+- Custom 3D physics engine
+- Flexible Entity-Component system to allow rapid iteration of gameplay entities
+- Type safe event system for communication between engine systems and gameplay entities
+- Powerful framework utility classes that allow
   - Multithreading
   - Resource Allocation/Caching
   - Asynchronous File I/O
