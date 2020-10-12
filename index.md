@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Feel free to contact me"
       url: "mailto:nicolacognata@gmail.com"
-  caption: "Image credit: [**Conner Ramputi**](https://phogen.artstation.com/)"
+  caption: "Image credit: [**Conner Ramputi**](https://phogen.artstation.com/) and Christian Babcock"
 excerpt: "You've stumbled across my portfolio. I'm a recent graduate from the University of Central Florida looking to dive head first into the industry. Below you'll find a collection of some of my personal and professional work."
 shimahara_row:
   - image_path: /assets/images/CarolinaYards.jpg
