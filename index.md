@@ -11,9 +11,9 @@ header:
   caption: "Image credit: [**Conner Ramputi**](https://phogen.artstation.com/) and Christian Babcock"
 excerpt: "You've stumbled across my portfolio. I'm a recent graduate from the University of Central Florida looking to dive head first into the industry. I love making games and running on the edge of what the hardware is capable of. <br/><br/>Below you'll find a collection of some of my personal and professional work."
 shimahara_row:
-  - image_path: /assets/images/CarolinaYards.jpg
-    alt: "Carolina Yards"
-    title: Carolina Yards &mdash; Gameplay Programmer
+  - image_path: /assets/images/shimahara.png
+    alt: ""
+    title: Shimahara Visual &mdash; Gameplay Programmer
     excerpt: 'I was recently hired as a Gameplay Programming Contractor to develop some tools for [Shimahara Visual](http://shimaharavisual.com/), an architectural visualization firm. I developed an Unreal Engine 4 plugin stuffed with gameplay tools to enable their artists to iterate on their project more rapidly. I worked closely with one of their artists to develop interactive camera rigs, player controls, and custom UI elements with the features they needed to get the job done. '
 screwjank_row:
   - image_path: /assets/images/screwjank-logo.jpg
